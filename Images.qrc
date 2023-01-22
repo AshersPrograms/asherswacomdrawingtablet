@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/wacom_logo_large.png</file>
+        <file>images/wacom_logo_small.png</file>
+        <file>images/wacom_logo_square_small.png</file>
+    </qresource>
+</RCC>
