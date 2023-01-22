@@ -10,8 +10,11 @@ xsetwacom
 
 I used all the variable that were possible from xsetwacom and my drawing tablet and created a Desktop Application.
 
-I designed this is MX Linux, with QT 5, ChatGPC(for text filtering) and from https://gist.github.com/technoburst/5369746 
+I designed this is MX Linux https://mxlinux.org/ , with QT 5 https://www.qt.io/, ChatGPC https://www.qt.io/ (for text filtering) and from https://gist.github.com/technoburst/5369746 
 
 A Video is coming soon
 
-Please report any bug to the facebook page: https://www.facebook.com/groups/648648643592658
+If you have any questions or comments check out our facebook page: https://www.facebook.com/groups/648648643592658
+
+Please report any bugs to the facebook page: https://www.facebook.com/groups/648648643592658
+
